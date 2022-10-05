@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">categoryappSUBMITv2</string>
+    <string-array name="options">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+</resources>
